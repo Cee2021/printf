@@ -24,7 +24,33 @@ int get_size(const char *format, int *i)
 
 	return (size);
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> d9af8a62d515dc0117b3c47ad8036a36e61df965
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
